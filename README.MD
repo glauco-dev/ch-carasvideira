@@ -1,5 +1,5 @@
 <font size="4px">Sou uma agência de *um* homem só</font>, iniciante no mercado mas macaco velho nas experiências da web, possuindo meu primeiro trabalho avassalador de uma implementação de website na época onde se revolucionou no mercado o uso de computação gráfica para interatividade na tela, de volta em 2013 um website artístico e apresentativo para um projeto ganhador de licitação de um filme, 
-<img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets\bannerRepresentativo-ADoceFlautaDaLiberdade.png" />
+<img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets/bannerRepresentativo-ADoceFlautaDaLiberdade.png" />
 A Doce Flauta da Liberdade, em Vitória da Conquista, quando ainda cursava ensino médio, já estudando engenharia de design web há mais de 2 anos.
 
 <img 
@@ -12,8 +12,8 @@ Comecei a aprender minúncias de animação e computação gráfica e programaç
 Na metade de 2017 apresentei uma ideia que estava estudando para um amigo, corretor de imóveis que trabalhava com meu pai na época. Ele achou brilhante os corretores de imóveis não precisarem mais sofrer com corridas do campo ao escritório e virce versa para fechar uma venda no local certo, além de sofrer com representações imprecisas e inconstantes de mapas dos loteamentos.
 
 O auge desta ideia foi no final de 2018 na cidade de amargosa, onde eu fui elogiado por todos da equipe e dos clientes que passavam pelo escritório pela iniciativa do aplicativo de vendas e a inovação.
-<img src="assets\bannerRepresentativo-LotCaminhoDoParque.png">
-<img src="assets\bannerRepresentativo-AppLotCaminhoDoParque.png">
+<img src="assets/bannerRepresentativo-LotCaminhoDoParque.png">
+<img src="assets/bannerRepresentativo-AppLotCaminhoDoParque.png">
 
 <font size="5px">*Hoje*</font>, após sofrer muito com o mundo da web (frameworks, ferramentas, etc), pois tive que aprender muito para amadurecer todos os complexos aspectos que um negócio de tecnologias, leva, conheci a camada final do meu negócio: *narrativas e pessoas*.  
 
