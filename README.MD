@@ -3,11 +3,12 @@
 <img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets/bannerRepresentativo-ADoceFlautaDaLiberdade.png" />
 A Doce Flauta da Liberdade, em Vitória da Conquista, quando ainda cursava ensino médio, já estudando engenharia de design web há mais de 2 anos.
 
+
+Comecei a aprender minúncias de animação e computação gráfica e programação aplicada ainda adolescente, entusiasmado em modificações de jogos famosos da época que suportavam comunidades de modificadores mundo a fora. Meu maior passa-tempo depois da aula era o forum dos teamkings, time de gamers programadores da época.
+
 <img 
     style="float: right; width:50%; height: 300px; margin-inline:1rem; object-fit: cover; object-position: bottom"
 src="https://www.hiveworkshop.com/data/ratory-images/119/119264-5c6f590cae95c3810f2d550a6a31c430.png"/>
-
-Comecei a aprender minúncias de animação e computação gráfica e programação aplicada ainda adolescente, entusiasmado em modificações de jogos famosos da época que suportavam comunidades de modificadores mundo a fora. Meu maior passa-tempo depois da aula era o forum dos teamkings, time de gamers programadores da época.
 
 
 Na metade de 2017 apresentei uma ideia que estava estudando para um amigo, corretor de imóveis que trabalhava com meu pai na época. Ele achou brilhante os corretores de imóveis não precisarem mais sofrer com corridas do campo ao escritório e virce versa para fechar uma venda no local certo, além de sofrer com representações imprecisas e inconstantes de mapas dos loteamentos.
