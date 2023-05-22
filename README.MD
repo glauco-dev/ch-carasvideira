@@ -1,4 +1,5 @@
-<font size="4px">Sou uma agência de *um* homem só</font>, iniciante no mercado mas macaco velho nas experiências da web, possuindo meu primeiro trabalho avassalador de uma implementação de website na época onde se revolucionou no mercado o uso de computação gráfica para interatividade na tela, de volta em 2013 um website artístico e apresentativo para um projeto ganhador de licitação de um filme, 
+### Sou uma agência de *um* homem só,
+ iniciante no mercado mas macaco velho nas experiências da web, possuindo meu primeiro trabalho avassalador de uma implementação de website na época onde se revolucionou no mercado o uso de computação gráfica para interatividade na tela, de volta em 2013 um website artístico e apresentativo para um projeto ganhador de licitação de um filme, 
 <img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets/bannerRepresentativo-ADoceFlautaDaLiberdade.png" />
 A Doce Flauta da Liberdade, em Vitória da Conquista, quando ainda cursava ensino médio, já estudando engenharia de design web há mais de 2 anos.
 
