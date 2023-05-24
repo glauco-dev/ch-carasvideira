@@ -10,7 +10,10 @@
 > - - React: componentes e soluções para arquiteturas data-driven como redux utilizando firebase
 > - - Após aprender os conceitos com React: ReactNative (onde aprendi sobre arquitetura de um aplicativo mobile), Svelte, Emberjs e meu atual favorito: Angular
 
- Iniciante no mercado, mas macaco velho nas experiências da web, possui meu primeiro trabalho de uma implementação de website na época onde se revolucionou no mercado de webdesign, com o uso de computação gráfica para interatividade na tela com css3, em volta de 2013, com um website artístico e apresentativo para um projeto ganhador de licitação de um filme, 
+
+## Meu histórico
+
+ Já macaco velho de webdesign web, possui meu primeiro trabalho de uma implementação de website na época onde se revolucionou no mercado de webdesign, com o uso de computação gráfica para interatividade na tela com css3, no final de 2013, com um website artístico e apresentativo para um projeto ganhador de licitação de um filme, 
 <img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets/bannerRepresentativo-ADoceFlautaDaLiberdade.png" />
 A Doce Flauta da Liberdade, em Vitória da Conquista, quando ainda cursava ensino médio, já estudando engenharia de design web há mais de 2 anos.
 
@@ -28,14 +31,37 @@ O auge desta ideia foi no final de 2018 na cidade de amargosa, onde eu fui elogi
 <img src="assets/bannerRepresentativo-LotCaminhoDoParque.png">
 <img src="assets/bannerRepresentativo-AppLotCaminhoDoParque.png">
 
-<font size="5px">*Atualmente*</font> trabalho com um website para uma construtora tamanho médio que presta serviços de construção para o governo da (http://construtoraconfidence.com)
+# ***Possuo então,***
+<font size="5px">***A***</font> <font size="4px">***capacidade***</font>  de **analisar**, **criar** e **implementar** o principal elemento de ***vendas***, em um ambiente de efeito puramente mental, é como o paraíso para minhas habilidades de infância onde são focadas no mercado e no que é necessário para manter o pé firme nele.
+
+Com o amadurecimento e o interesse na psicologia humna, veio a sabedoria para ver com clareza e fluidez as necessidades e intenções dos meus clientes e os clientes deles, criando em mim a fôrma ideal de alguém que vai fazer o ***port*** de sua marca para seus clientes, no meio virtual. Atendendo todos os requisitos para o seu marketing, e todas as funcionalidades atraentes e engajantes. Ambas, como todo o embasamento teórico para construir o melhor valor para sua empresa.
+
+Agora, me mantenho atualizado estudando na indústria com o quê é mais importante em performance e feeling, design e experiência de desenvolvedor. 
+
+
+<font size="5px">*Atualmente*</font> trabalho com um website para uma construtora tamanho médio que presta serviços de construção para o governo da (http://construtoraconfidence.com) e estou em busca de encontrar uma empresa que eu possa trabalhar e crescer em equipe. Pois já possuo estudo e experiência que podem humildimente agregar a uma equipe: 
+
+
+## What can I do for you?
+
+- Arquitetura compreensível de cores e posicionamentos
+- Animações usando qualquer tecnologia baseada em frames e curvas de efeito
+- Funcionalidades asyncronas no front end com apis e saas's, com consciência na experiência de usuário
+- Interações a base de eventos e usuário, com todo o resto dos componentes que trabalho: narrativo, funcional
+
+### O quê eu não posso fazer
+- Escolher a visão do negócio do cliente a fim de destilar seu conteúdo: apensar de eu conseguir usar conteúdos e criar uma narrativa na web com todas as tecnologias abstratas e diretas na web, não sou capaz de escolher a perspectiva melhor para o cliente.
+- Desenvolver ponta a ponta: não sou capaz de criar um produto com profundidade no servidor ao mesmo tempo que no cliente. Uma vez que sou capaz de aprofundar individualmente em cada, os dois ao mesmo tempo é impossível, se o cliente insistir, posso realizar um trabalho primeiro no servidor, seguido de começar o trabalho no cliente, resultando em contratação de dois profissionais.
+
+
+## Minhas considerações profissionais
 
 Estou amadurecendo do meu jeito para entrar no mercado aapós sofrer muito com o mundo da web (frameworks, ferramentas, etc), pois tive que aprender muito para amadurecer todos os complexos aspectos que um negócio de tecnologias, leva, conheci a camada final do meu negócio: *narrativas e pessoas*.  
 
 Aprendi que mergulhei muito no caminho da engenharia, e a chave para desenrolar estava na vertente que sempre levei jeito, mas inexplorado:  
 A imaginação e a narração.
 
-Elementos que a primeira vista parecem apenas tem uma relação muito indereta, mas que na verdade, uma é construção sobre a outra. 
+Elementos que a primeira vista parecem apenas tem uma relação muito indireta, mas que na verdade, uma é construção sobre a outra. 
 
 #### Narração:
 >  Segundo o dicionário de Oxford, narração é:
@@ -57,33 +83,15 @@ Portanto, a imaginação, **que sabemos bem que simplesmente é a ação de se i
 >>![](assets/significado-imaginação.png)  
 
 
-# ***Possuir então,***
-<font size="5px">***A***</font> <font size="4px">***capacidade***</font>  de **analisar**, **criar** e **implementar** o principal elemento de ***vendas***, em um ambiente de efeito puramente mental, é como o paraíso para minhas habilidades de infância onde são focadas no mercado e no que é necessário para manter o pé firme nele.
 
-Com o amadurecimento e o interesse na psicologia humna, veio a sabedoria para ver com clareza e fluidez as necessidades e intenções dos meus clientes e os clientes deles, criando em mim a fôrma ideal de alguém que vai fazer o ***port*** de sua marca para seus clientes, no meio virtual. Atendendo todos os requisitos para o seu marketing, e todas as funcionalidades atraentes e engajantes. Ambas, como todo o embasamento teórico para construir o melhor valor para sua empresa.
-
-Agora, me mantenho atualizado estudando na indústria com o quê é mais importante em performance e feeling, design e experiência de desenvolvedor. 
-
-## What can I do for you?
-
-### Aqui uma lista do que eu posso fazer com minhas habilidades
-- Arquitetura compreensível de cores e posicionamentos
-- Animações usando qualquer tecnologia baseada em frames e curvas de efeito
-- Funcionalidades asyncronas no front end com apis e saas's, com consciência na experiência de usuário
-- Interações a base de eventos e usuário, com todo o resto dos componentes que trabalho: narrativo, funcional
-
-### O quê eu não posso fazer
-- Escolher a visão do negócio do cliente a fim de destilar seu conteúdo: apensar de eu conseguir usar conteúdos e criar uma narrativa na web com todas as tecnologias abstratas e diretas na web, não sou capaz de escolher a perspectiva melhor para o cliente.
-- Desenvolver ponta a ponta: não sou capaz de criar um produto com profundidade no servidor ao mesmo tempo que no cliente. Uma vez que sou capaz de aprofundar individualmente em cada, os dois ao mesmo tempo é impossível, se o cliente insistir, posso realizar um trabalho primeiro no servidor, seguido de começar o trabalho no cliente, resultando em contratação de dois profissionais.
-
-## Como parece uma proposta padrão do eu posso fazer como serviço
+## Como parece uma proposta padrão de meus serviços
 
 ### Proposta de venda, com  
 - Serviço de website  
 - com integração a celular
 - Narrativa de página para conversão em vendas 
-- Aplicativo exclusivo customizado de comunicação em tempo real para loteamentos (cliente e vendedores)
-- Preço promocional de *quase* **zero**
+<!-- - Aplicativo exclusivo customizado de comunicação em tempo real para loteamentos (cliente e vendedores)
+- Preço promocional de *quase* **zero** -->
 
 
 
@@ -130,6 +138,7 @@ Conversão em vendas se acontece pelo acreditar do cliente em seu serviço, torn
 Conversão em páginas é o termo utilizado para representar o momento que o cliente decide por vez de comprar o que está vendo, motivado pela necessidade contida nele.   
 
 Acontece de ser o maior inimigo da venda: o próprio vendedor. Quando ali, não conecta a necessidade do cliente a realidade do serviço da empresa (contando aqui: preços, flexibilidades, serviços).  
+
 <!-- 
 E Por isso
 
@@ -145,7 +154,7 @@ E Por isso
 
 Preço promocional de *quase* **zero** </h2>
 
-<small class="descrição-rápida">descrição rápida</small> --> -->
+<small class="descrição-rápida">descrição rápida</small> --> 
 
 
 <style>
