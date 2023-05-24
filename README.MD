@@ -1,4 +1,4 @@
-### Sou uma webdeisgner autônomo iniciante no mercado
+### Webdeisgner e developer autônomo com experiência querendo entrar para alguma equipe
 #### focado em experiência mais do que convenções, entendimento mais do que qualquer outra coisa, humilde, mas não limitado.
 <img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets/glauco-dev hero.png" />
 
