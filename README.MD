@@ -1,4 +1,4 @@
-### Webdeisgner e developer autônomo com experiência querendo entrar para alguma equipe
+### Webdeisgner e developer autônomo com cultura e experiência de mercado
 #### focado em experiência mais do que convenções, entendimento mais do que qualquer outra coisa, humilde, mas não limitado.
 <img style="margin-bottom:10px; margin-top:10px; width: 100%" src="assets/glauco-dev hero.png" />
 
