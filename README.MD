@@ -1,8 +1,9 @@
-objetivos: criar um web local de meu avatar com adesivos e workspace rela time interativo com música e ultimos commits, perfis em jogos e contratação interativa
+objetivos: criar um web local de meu avatar com adesivos e workspace rela time interativo com música e ultimos commits, perfis em jogos e contratação interativa.
 
 #Notações
 Usar os benefícios dos principais pacotes de software das tecnologias e frameworks que uso e seu preço de manuntenção e lista de ações com print no design somehow
 Usar meu tempo médio de código do codetime usando seus gráficos
+Se beneficiar do valor de venda de chamada de atenção dos gráficos animados de transição e interação, nas marcas in site
 
 ### Webdeisgner e developer autônomo com cultura e experiência de mercado
 #### focado em experiência mais do que convenções, entendimento mais do que qualquer outra coisa, humilde, mas não limitado.
